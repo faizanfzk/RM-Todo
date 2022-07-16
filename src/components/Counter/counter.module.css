@@ -1,0 +1,18 @@
+.counter {
+  /* TODO */
+  /* width: 50px; */
+  display: flex;
+  justify-content: space-between;
+}
+.button{
+  background-color: #8197e8;
+  border: none;
+  border-radius: 2px;
+}
+span{
+  padding-left: 15%;
+  font-weight: bold;
+  padding-right: 15%;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+}
